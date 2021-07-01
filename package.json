@@ -1,5 +1,5 @@
 {
-    "name": "@dancing-lizard/fancy-light-card",
+    "name": "@raceland-automacao-lda/fancy-light-card",
     "version": "1.0.0",
     "description": "Lovelace Fancy Light Card using iro.js",
     "keywords": [
@@ -11,7 +11,7 @@
         "custom-cards"
     ],
     "module": "fancy-light-card.js",
-    "repository": "git@github.com:dancing-lizard/fancy-light-card.git",
+    "repository": "git@github.com:RACELAND-Automacao-Lda/fancy-light-card.git",
     "author": "Dancing Lizard",
     "license": "MIT",
     "dependencies": {
